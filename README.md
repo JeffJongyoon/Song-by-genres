@@ -1,7 +1,7 @@
 ### Project Description
 
 
-+ Projec title: Song by genres
++ Project title: Song by genres
 + This project is conducted by Jongyoon Sohn
 
 
