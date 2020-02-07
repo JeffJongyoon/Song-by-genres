@@ -1,15 +1,9 @@
-Project 1: A "data story" on the songs of our times
-
-<img src="figs/title1.jpeg" width="500">
-
-### [Project Description](doc/)
+### Project Description
 
 
 + Projec title: Songs by genres
 + This project is conducted by Jongyoon Sohn
 
-
-<img src="../figs/title2.jpg" width="400">
 
 Have it happened to you when a song was really *speaking* to you? Do you like some of your favorite songs for their lyrics? When you think of a particular music genre (e.g., classic rock), do you expect certain *topics* or *sentiments* for the lyrics?
 
