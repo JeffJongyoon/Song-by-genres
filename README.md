@@ -1,7 +1,7 @@
 ### Project Description
 
 
-+ Projec title: Songs by genres
++ Projec title: Song by genres
 + This project is conducted by Jongyoon Sohn
 
 
@@ -17,12 +17,7 @@ The goal of this project is to look deeper into the patterns and characteristics
 
 ### Challenge
 
-In this project you will carry out an **exploratory data analysis (EDA)** of the corpus of song lyrics and write a blog on interesting findings from the provide data sets (i.e., a *data story*).
-
-My task is to explore the texts using tools from text mining and natural language processing such as sentiment analysis, topic modeling, etc, all available in `R` and write a blog post using `R` Notebook. Your blog should be in the form of a `data story` blog on interesting trends and patterns identified by your analysis of these song lyrics.
-
-Even though this is an individual project, you are **encouraged** to discuss with your classmates online and exchange ideas.
-
+In this project I will carry out an **exploratory data analysis (EDA)** of the corpus of song lyrics and write a blog on interesting findings from the provide data sets (i.e., a *data story*). My task is to explore the texts using tools from text mining and natural language processing such as sentiment analysis, topic modeling, etc, all available in `R` and write a blog post using `R` Notebook.
 
 + Project summary: This project demonstrates that different music genres have various characteristics in terms of words counts, words usage, etc. Details are discussed in the doc folder. Required libraries can be found in the README.md in the doc folder.
 
